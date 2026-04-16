@@ -90,7 +90,7 @@ graph TD
 
 | Model  | Accuracy | Loss | Notes |
 |--------|---------|------|------|
-| FedAvg | XX%     | XX   | Baseline |
+| FedAvg | 90.88%     | 23%   | Baseline |
 | FedAWA | XX%     | XX   | Better convergence |
 
 > 📌 Replace `XX` with your actual results
